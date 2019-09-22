@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.sideBarItem:hover{
+  background: #398CC2;
+  color: #ECECEC;
+  cursor: pointer;
+}
